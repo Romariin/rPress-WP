@@ -1,0 +1,407 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751,
+        12
+      ],
+      "id": 675353,
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 2",
+      "overview": "Bien installé dans la petite ville de Green Hills, Sonic veut maintenant prouver qu’il a l’étoffe d' un véritable héros. Un défi de taille se présente à lui quand le Dr Robotnik refait son apparition. Accompagné de son nouveau complice Knuckles, ils sont en quête d’une émeraude dont le pouvoir permettrait de détruire l’humanité toute entière. Pour s’assurer que l’émeraude ne tombe entre de mauvaises mains, Sonic fait équipe avec Tails. Commence alors un voyage à travers le monde, plein de péripéties.",
+      "popularity": 6852.303,
+      "poster_path": "/7RSCL6V8BlekgVnNPok6tLW50tP.jpg",
+      "release_date": "2022-03-30",
+      "title": "Sonic 2, le film",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1450
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A3bsT0m1um6tvcmlIGxBwx9eAxn.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        10749
+      ],
+      "id": 752623,
+      "original_language": "en",
+      "original_title": "The Lost City",
+      "overview": "Loretta Sage, romancière brillante mais solitaire, est connue pour ses livres mêlant romance et aventures dans des décors exotiques. Alan, mannequin, a pour sa part passé la plus grande partie de sa carrière à incarner Dash, le héros à la plastique avantageuse figurant sur les couvertures des livres de Loretta. Alors qu’elle est en pleine promotion de son nouveau roman en compagnie d’Alan, Loretta se retrouve kidnappée par un milliardaire excentrique qui est persuadé qu’elle pourra l’aider à retrouver le trésor d’une cité perdue évoquée dans son dernier ouvrage. Déterminé à prouver qu’il peut être dans la vraie vie à la hauteur du héros qu’il incarne dans les livres, Alan se lance à la rescousse de la romancière. Propulsés dans une grande aventure au cœur d’une jungle hostile, ce duo improbable va devoir faire équipe pour survivre et tenter de mettre la main sur l’ancien trésor avant qu’il ne disparaisse à jamais.",
+      "popularity": 5805.799,
+      "poster_path": "/rK8s7bTDZiOs41FXsOcoSv8X9Y5.jpg",
+      "release_date": "2022-03-24",
+      "title": "Le Secret de la cité perdue",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 589
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 335787,
+      "original_language": "en",
+      "original_title": "Uncharted",
+      "overview": "Nathan Drake, voleur astucieux et intrépide, est recruté par le chasseur de trésors chevronné Victor « Sully » Sullivan pour retrouver la fortune de Ferdinand Magellan, disparue il y a 500 ans. Ce qui ressemble d’abord à un simple casse devient finalement une course effrénée autour du globe pour s’emparer du trésor avant l’impitoyable Moncada, qui est persuadé que sa famille est l’héritière légitime de cette fortune. Si Nathan et Sully réussissent à déchiffrer les indices et résoudre l’un des plus anciens mystères du monde, ils pourraient rafler la somme de 5 milliards de dollars et peut-être même retrouver le frère de Nathan, disparu depuis longtemps… mais encore faudrait-il qu’ils apprennent à travailler ensemble.",
+      "popularity": 3639.326,
+      "poster_path": "/ttMnI8Xtdshl40AAB8lwsZjfyqL.jpg",
+      "release_date": "2022-02-10",
+      "title": "Uncharted",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 1986
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cIjmEgK67974md4Z9Xe6350sAS2.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18,
+        14,
+        53
+      ],
+      "id": 639933,
+      "original_language": "en",
+      "original_title": "The Northman",
+      "overview": "En Islande, le jeune prince Amleth vient tout juste de devenir un homme quand son père est brutalement assassiné par son oncle qui s'empare alors de la mère du garçon. Amleth fuit son royaume insulaire en barque, en jurant de se venger. Deux décennies plus tard, devenu un berserkr, un guerrier viking capable d'entrer dans une fureur bestiale, Amleth revient en se faisant passer pour un esclave afin d'accomplir son vœu : secourir sa mère, tuer son oncle et venger son père.",
+      "popularity": 3451.658,
+      "poster_path": "/hk0JZyTHfgN35f43pJUhDPTNjM0.jpg",
+      "release_date": "2022-04-07",
+      "title": "The Northman",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 907
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xHrp2pq73oi9D64xigPjWW1wcz1.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        53
+      ],
+      "id": 414906,
+      "original_language": "en",
+      "original_title": "The Batman",
+      "overview": "Durant les deux années passées à arpenter les rues en tant que Batman, Bruce Wayne s'est aventuré au cœur des ténèbres de Gotham City. Disposant de seulement quelques alliés de confiance au sein du monde corrompu qu'est l'élite de la ville, le justicier solitaire s'est imposé comme l'unique incarnation de la vengeance parmi ses concitoyens. Lorsqu'un meurtrier s'en prend aux plus grandes personnalités de Gotham à l'aide de machinations sadiques, le plus grand détective du monde se lance dans une enquête dans la pègre en suivant des indices mystérieux, croisant ainsi Selina Kyle, alias Catwoman, Oswald Cobblepot, alias le Pingouin, Carmine Falcone et Edward Nashton, alias le Sphinx. Alors que les pistes et les plans du criminel s'éclaircissent, Batman doit tisser de nouveaux liens, démasquer le coupable et rétablir la justice à Gotham City, depuis trop longtemps empoisonnée par l'abus de pouvoir et la corruption.",
+      "popularity": 3419.546,
+      "poster_path": "/t9JGg10CW1DzXEdWL54ewkUko6N.jpg",
+      "release_date": "2022-03-01",
+      "title": "The Batman",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4623
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 453395,
+      "original_language": "en",
+      "original_title": "Doctor Strange in the Multiverse of Madness",
+      "overview": "Dans ce nouveau film Marvel Studios, l’univers cinématographique Marvel déverrouille et repousse les limites du multivers encore plus loin. Voyagez dans l’inconnu avec Doctor Strange, qui avec l’aide d’anciens et de nouveaux alliés mystiques, traverse les réalités hallucinantes et dangereuses du multivers pour affronter un nouvel adversaire mystérieux.",
+      "popularity": 2910.581,
+      "poster_path": "/dbJDPJBHKxnMyvcc12mcbGK5RPF.jpg",
+      "release_date": "2022-05-04",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1646
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Après les événements liés à l'affrontement avec Mysterio, l'identité secrète de Spider-Man a été révélée. Il est poursuivi par le gouvernement américain, qui l'accuse du meurtre de Mysterio, et traqué par les médias. Cet événement a également des conséquences terribles sur la vie de sa petite-amie M.J. et de son meilleur ami Ned. Désemparé, Peter Parker demande alors de l'aide au docteur Strange. Ce dernier lance un sort pour que tout le monde oublie que Peter est Spider-Man. Mais les choses ne se passent pas comme prévu, et cette action altère la stabilité de l'espace-temps. Cela ouvre le « multivers », un concept terrifiant dont ils ne savent quasiment rien...",
+      "popularity": 2971.881,
+      "poster_path": "/3SyG7dq2q0ollxJ4pSsrqcfRmVj.jpg",
+      "release_date": "2021-12-15",
+      "title": "Spider-Man: No Way Home",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 12846
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+      "genre_ids": [
+        16,
+        35,
+        28,
+        10751,
+        80
+      ],
+      "id": 629542,
+      "original_language": "en",
+      "original_title": "The Bad Guys",
+      "overview": "Une adaptation de la célèbre série littéraire racontant les aventures de Mr Wolf, Mr Shark, Mr Snake et Mr Piranha, lassés d'être des méchants.",
+      "popularity": 2784.167,
+      "poster_path": "/9NGa3c2CZp2dfYQLTmcFoVDFbOz.jpg",
+      "release_date": "2022-03-17",
+      "title": "Les Bad Guys",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 431
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 628900,
+      "original_language": "en",
+      "original_title": "The Contractor",
+      "overview": "Après avoir été viré des Marines, James Harper rejoint une organisation paramilitaire afin de subvenir aux besoins de sa famille. Il se rend en Pologne, avec une équipe d'élite, dans le cadre d'une mission visant à enquêter sur une menace mystérieuse. Mais Harper se retrouve seul et traqué, au beau milieu de l'Europe de l'Est. Il va devoir se battre, pour rester en vie suffisamment longtemps, afin de découvrir les motivations de ceux qui l'ont trahi.",
+      "popularity": 2558.025,
+      "poster_path": "/rJPGPZ5soaG27MK90oKpioSiJE2.jpg",
+      "release_date": "2022-03-10",
+      "title": "The Contractor",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 236
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jCDycDqFJ1dIv5iJfTfub2h4ZAB.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 836225,
+      "original_language": "en",
+      "original_title": "The Exorcism of God",
+      "overview": "Au Mexique, un prêtre très respecté par sa communauté est confronté à son passé, lorsqu'un cas de possession surgit à l'orphelinat ; un exorcisme difficile qui a laissé une empreinte toujours vive continue de le tourmenter.",
+      "popularity": 3409.916,
+      "poster_path": "/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg",
+      "release_date": "2022-02-10",
+      "title": "The Exorcism of God",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 141
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
+      "genre_ids": [
+        28,
+        878,
+        14
+      ],
+      "id": 526896,
+      "original_language": "en",
+      "original_title": "Morbius",
+      "overview": "Gravement atteint d’une rare maladie sanguine, et déterminé à sauver toutes les victimes de cette pathologie, le Dr Morbius tente un pari désespéré. Mais ce qui semble à première vue être un succès se révèle rapidement comme un remède potentiellement plus grave que la maladie…",
+      "popularity": 3226.513,
+      "poster_path": "/xBoIe0eX9UuSSPe5Qt6KXIQOd3I.jpg",
+      "release_date": "2022-03-30",
+      "title": "Morbius",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 850
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "id": 508947,
+      "original_language": "en",
+      "original_title": "Turning Red",
+      "overview": "Les aventures de Meilin Lee, une jeune adolescente de 13 ans, pleine d’assurance, mais tiraillée entre son image de petite fille modèle aux yeux de sa mère hyper protectrice et le chaos de l’adolescence. Et comme si tous les changements qui s’opèrent en elle ne suffisaient pas, chaque fois qu’elle est débordée par ses émotions - ce qui, pour une ado, arrive quasiment tout le temps - elle se transforme en panda roux géant !",
+      "popularity": 2176.739,
+      "poster_path": "/jBCUJ90BVXIDSLlXUvgQcj6LOHa.jpg",
+      "release_date": "2022-03-10",
+      "title": "Alerte rouge",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 2142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Ngw106BLlNJ4iVpRHlrDfaLpCV.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 406759,
+      "original_language": "en",
+      "original_title": "Moonfall",
+      "overview": "Un astéroïde percute la Lune. L'orbite de cette dernière est déviée et se dirige vers la Terre. Une équipe d'astronautes, composée entre autres de l'administratrice de la NASA et d'un génie scientifique, se rend sur l'astre afin de sauver la planète. Mais sur place, ils devront faire face à une force inconnue qui pourrait bien changer notre vision de l'Univers.",
+      "popularity": 2168.493,
+      "poster_path": "/pP2d05Ybd6rt8vG6kxE6xSDLVq9.jpg",
+      "release_date": "2022-02-03",
+      "title": "Moonfall",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 1031
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wtbRUVxQVvU6QIJH1oGLDThJLib.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 785985,
+      "original_language": "fr",
+      "original_title": "Loin du périph",
+      "overview": "Dix ans après avoir fait équipe, Ousmane et François, deux flics que tout oppose, reforment à contrecœur leur tandem de choc. Pas franchement ravis de se retrouver, ils mettent le cap sur une petite ville des Alpes pour enquêter sur un meurtre particulièrement sordide. Mais, alors qu'ils pensent avoir élucidé l’affaire, Ousmane et François découvrent une réalité bien plus terrifiante ! De surprises en rebondissements, leur escapade loin du périph les pousserait même à s’apprécier…",
+      "popularity": 2283.128,
+      "poster_path": "/6NHyuF440HprqRfYrecdMQH6iQb.jpg",
+      "release_date": "2022-05-06",
+      "title": "Loin du périph",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 123
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 763285,
+      "original_language": "en",
+      "original_title": "Ambulance",
+      "overview": "À Los Angeles, Will Sharp est un homme sans histoires de la classe moyenne. Alors qu'il a désespérément besoin de 231 000 $ pour les soins médicaux de sa femme, il contacte Danny son frère criminel pour l'aider. Celui-ci le recrute pour un braquage pouvant rapporter près de 32 millions de dollars : The LA Federal Bank Trust. Mais rien ne se passe comme prévu et les deux frères tirent sur un officier du LAPD. Pour s'enfuir, ils volent une ambulance. À son bord se trouvent Cam Thompson, une ambulancière, et l'officier de police mourant sur lequel ils ont tiré. Pendant la course poursuite infernale qui s’ensuit, Will et Danny vont devoir échapper aux forces de l’ordre surmotivées postées aux 4 coins de la ville, tenter de garder leurs otages en vie et éviter de s’entre-tuer tout en exécutant l’évasion la plus spectaculaire que la ville de Los Angeles n’ait jamais vue.",
+      "popularity": 1777.313,
+      "poster_path": "/iBW30GSRORCXMdTWpt4dKnIKBcL.jpg",
+      "release_date": "2022-03-16",
+      "title": "Ambulance",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 596
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eQN31P4IEhyp6NkdccvppJnyuJ4.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "id": 284052,
+      "original_language": "en",
+      "original_title": "Doctor Strange",
+      "overview": "Doctor Strange suit l’histoire du Docteur Stephen Strange, talentueux neurochirurgien qui, après un tragique accident de voiture, doit mettre son ego de côté et apprendre les secrets d’un monde caché de mysticisme et de dimensions alternatives. Basé à New York, dans le quartier de Greenwich Village, Doctor Strange doit jouer les intermédiaires entre le monde réel et ce qui se trouve au‐delà, en utilisant un vaste éventail d’aptitudes métaphysiques et d’artefacts pour protéger le Marvel Cinematic Universe.",
+      "popularity": 1490.905,
+      "poster_path": "/7wZ7mx7tY5SgflQKuJmQvwu3wGm.jpg",
+      "release_date": "2016-10-25",
+      "title": "Doctor Strange",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 18976
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i0zbSmiyyylh7H3Qb4jgscz46Pm.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 893370,
+      "original_language": "es",
+      "original_title": "Virus-32",
+      "overview": "Un virus se déchaîne et un massacre effrayant se déroule dans les rues de Montevideo.",
+      "popularity": 1715.125,
+      "poster_path": "/3CvBuw9aoziJJAbqymmsF2drnzH.jpg",
+      "release_date": "2022-04-21",
+      "title": "Virus-32",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qNRkfXBdAuXk9Qs3BEDIfmbAK9w.jpg",
+      "genre_ids": [
+        80,
+        28
+      ],
+      "id": 883502,
+      "original_language": "en",
+      "original_title": "Fortress: Sniper's Eye",
+      "overview": "Le film suit l'histoire d'un lieu de villégiature top secret pour officiers intelligents américains à la retraite. Dans le premier, un groupe de criminels dirigé par Balzary fait irruption dans l'enceinte de la station balnéaire, déterminés à se venger de Robert, forçant l'officier à la retraite et son fils à sauver la situation. Murray et Metcalfe reprennent leurs rôles dans la suite.",
+      "popularity": 1596.946,
+      "poster_path": "/wi2RKJYYWbrvrVdJ6zmCdg9Gq6b.jpg",
+      "release_date": "2022-04-29",
+      "title": "Fortress : Sniper's Eye",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t9hNIUFcy0tYu55IPxjxRTTdZ6X.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 829557,
+      "original_language": "en",
+      "original_title": "365 Days: This Day",
+      "overview": "On retrouve Laura et Massimo dans une histoire plus torride que jamais. Mais leur nouvelle vie va être chamboulée par les liens familiaux de Massimo et l'irruption d'un mystérieux étranger déterminé à conquérir le cœur de Laura et à gagner sa confiance, quel que soit le prix à payer.",
+      "popularity": 1286.123,
+      "poster_path": "/oZNI08UnRwGH6Gl8iR7Dq8HV806.jpg",
+      "release_date": "2022-04-27",
+      "title": "365 Jours : Au lendemain",
+      "video": false,
+      "vote_average": 5.6,
+      "vote_count": 411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2n95p9isIi1LYTscTcGytlI4zYd.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 799876,
+      "original_language": "en",
+      "original_title": "The Outfit",
+      "overview": "Leonard, un tailleur anglais crée des costumes sur le célèbre Savile Row de Londres. Mais après une tragédie personnelle, il part à Chicago, où il tient une petite boutique dans un quartier difficile. Il y fabrique de beaux vêtements pour les seules personnes du quartier qui peuvent se les payer est une famille de gangsters dangereux.",
+      "popularity": 1493.129,
+      "poster_path": "/zbGN4QBrKoT3HO7etj4FvlM3OZb.jpg",
+      "release_date": "2022-02-25",
+      "title": "The Outfit",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 211
+    }
+  ],
+  "total_pages": 33597,
+  "total_results": 671935
+}

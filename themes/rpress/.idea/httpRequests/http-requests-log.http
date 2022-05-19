@@ -1,0 +1,21 @@
+GET https://api.themoviedb.org/3/movie/popular?api_key=8005ff357355f6051986c1f50f64dab1&language=fr-FR&page=1
+Accept: application/json
+
+<> 2022-05-19T151826.200.json
+
+###
+
+GET https://api.themoviedb.org/3/movie/popular?api_key=8005ff357355f6051986c1f50f64dab1&language=fr-FR&page=1
+Accept: application/json
+
+<> 2022-05-19T151719.200.json
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+<> 2022-05-19T151654.404.html
+
+###
+
